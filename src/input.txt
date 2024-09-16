@@ -1,0 +1,5 @@
+| Symbol | Meaning | Example |
+|--------|---------|---------|
+| `*` | Asterisk | *italic* |
+| `\|` | Pipe | Column \| Separator |
+| `\\` | Backslash | Escape \\character |
